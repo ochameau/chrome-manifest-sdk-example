@@ -1,0 +1,10 @@
+{
+    "name": "chrome",
+    "license": "MPL 2.0",
+    "author": "",
+    "version": "0.1",
+    "fullName": "chrome",
+    "unpack": true,
+    "id": "jid1-Rndu8ublOrZmaw",
+    "description": "a basic add-on"
+}
